@@ -1,4 +1,4 @@
 CREDITS
 
-* Computer Networking: A Top-Down Approach
+1. Computer Networking: A Top-Down Approach
 
